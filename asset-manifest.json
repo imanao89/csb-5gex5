@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://.github.io/csb-5gex5/static/js/main.a59a59d0.chunk.js",
-    "main.js.map": "https://.github.io/csb-5gex5/static/js/main.a59a59d0.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-5gex5/static/js/runtime-main.0eb74aa0.js",
-    "runtime-main.js.map": "https://.github.io/csb-5gex5/static/js/runtime-main.0eb74aa0.js.map",
-    "static/js/2.872a9592.chunk.js": "https://.github.io/csb-5gex5/static/js/2.872a9592.chunk.js",
-    "static/js/2.872a9592.chunk.js.map": "https://.github.io/csb-5gex5/static/js/2.872a9592.chunk.js.map",
-    "index.html": "https://.github.io/csb-5gex5/index.html",
-    "static/js/2.872a9592.chunk.js.LICENSE.txt": "https://.github.io/csb-5gex5/static/js/2.872a9592.chunk.js.LICENSE.txt"
+    "main.js": "https://imanao89.github.io/csb-5gex5/static/js/main.9e3a4d08.chunk.js",
+    "main.js.map": "https://imanao89.github.io/csb-5gex5/static/js/main.9e3a4d08.chunk.js.map",
+    "runtime-main.js": "https://imanao89.github.io/csb-5gex5/static/js/runtime-main.a544312e.js",
+    "runtime-main.js.map": "https://imanao89.github.io/csb-5gex5/static/js/runtime-main.a544312e.js.map",
+    "static/js/2.5b9a5a42.chunk.js": "https://imanao89.github.io/csb-5gex5/static/js/2.5b9a5a42.chunk.js",
+    "static/js/2.5b9a5a42.chunk.js.map": "https://imanao89.github.io/csb-5gex5/static/js/2.5b9a5a42.chunk.js.map",
+    "index.html": "https://imanao89.github.io/csb-5gex5/index.html",
+    "static/js/2.5b9a5a42.chunk.js.LICENSE.txt": "https://imanao89.github.io/csb-5gex5/static/js/2.5b9a5a42.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0eb74aa0.js",
-    "static/js/2.872a9592.chunk.js",
-    "static/js/main.a59a59d0.chunk.js"
+    "static/js/runtime-main.a544312e.js",
+    "static/js/2.5b9a5a42.chunk.js",
+    "static/js/main.9e3a4d08.chunk.js"
   ]
 }
